@@ -1,6 +1,3 @@
-I'll help you create a detailed README.md for your project. Here's a comprehensive template you can use:
-
-```markdown
 # Insurance Risk Analytics & Predictive Modeling
 
 ## 📋 Project Overview
@@ -132,4 +129,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 10 Academy for the challenge
 - AlphaCare Insurance Solutions for the data
 - Open-source contributors of the Python data science stack
-```
+
