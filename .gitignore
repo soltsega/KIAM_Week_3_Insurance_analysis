@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+venv/
+env/
+
+# DVC
+.dvc/
+data/raw/
+data/processed/
+
+# IDE
+.vscode/
+.idea/
+MachineLearningRating_v3.txt
