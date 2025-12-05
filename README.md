@@ -133,13 +133,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - AlphaCare Insurance Solutions for the data
 - Open-source contributors of the Python data science stack
 ```
-
-### How to use this README:
-1. Copy this content to a new file named `README.md` in your project root
-2. Update the sections with your specific details:
-   - Replace `yourusername` with your GitHub username
-   - Add your name and contact information
-   - Update the project structure if yours differs
-   - Add any additional sections specific to your project
-
-Would you like me to help you customize any specific section or add more details to certain parts?
