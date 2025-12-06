@@ -32,3 +32,6 @@ data/MachineLearningRating_v3.csv
 data/MachineLearningRating_v3_cleaned.csv
 data/insurance_data_cleaned2.csv
 data/insurance_data_cleaned.csv
+.dvc/dvc_data/MachineLearningRating_v3.txt
+.dvc/tmp/btime
+.dvc/tmp/lock
