@@ -42,3 +42,5 @@ data/MachineLearningRating_v3_cleaned.csv
 src/safe_conversion.py
 src/validate_data.py
 .gitignore
+data/insurance_data_cleaned2.csv
+dvc_data/MachineLearningRating_v3.txt
