@@ -35,3 +35,10 @@ data/insurance_data_cleaned.csv
 .dvc/dvc_data/MachineLearningRating_v3.txt
 .dvc/tmp/btime
 .dvc/tmp/lock
+data/insurance_data_cleaned.csv
+conversion.log
+data/MachineLearningRating_v3.csv
+data/MachineLearningRating_v3_cleaned.csv
+src/safe_conversion.py
+src/validate_data.py
+.gitignore
